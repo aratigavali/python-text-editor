@@ -43,7 +43,7 @@ cd python-text-editor
 
 ### 3. Run the Python file
 
-PYTHON TEXT EDITOR.PY
+PYTHON "TEXT EDITOR.PY"
 
 
 
