@@ -42,10 +42,11 @@ cd python-text-editor
 
 
 ### 3. Run the Python file
-TEXT EDITOR.PY
+
+PYTHON TEXT EDITOR.PY
 
 
-> If your file has a different name, replace `text_editor.py` with your actual Python filename.
+
 
 ## 📸 Project
 
